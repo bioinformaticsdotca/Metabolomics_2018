@@ -31,9 +31,13 @@ Informatics and Statistics for Metabolomics.
 
 5) Latest version of [R](http://www.r-project.org/).  
 
-6) XCMS on R, with all relevant packages as indicated [here](https://www.bioconductor.org/packages/devel/bioc/vignettes/xcms/inst/doc/xcmsInstall.pdf).  
-The R folder needs to allow writing of new libraries (override the windows default read-only), or download all the packages and transfer to another folder.
-check on R that the command line library(xcms) does not return an error (minor R version warning is okay).  
+6) [XCMS in R](https://bioconductor.org/packages/release/bioc/html/xcms.html). Open R and type:
+
+```
+source("https://bioconductor.org/biocLite.R")
+biocLite("xcms")
+```
+
 
 7) A PDF viewer (Adobe Acrobat or equivalent).  
 
@@ -50,8 +54,9 @@ check on R that the command line library(xcms) does not return an error (minor R
   
 * [XCMS Online: a web-based platform to process untargeted metabolic data](https://www.ncbi.nlm.nih.gov/pubmed/22533540)  
 * [Accurate, Fully-Automated NMR Spectral Profiling for Metabolomics](https://www.ncbi.nlm.nih.gov/pubmed/26017271)  
-* [HMDB 3.0--The Human Metabolome Database in 2013](https://www.ncbi.nlm.nih.gov/pubmed/23161693)  
-* [Introduction to Cheminformatics](http://onlinelibrary.wiley.com/doi/10.1002/0471250953.bi1401s53/full)  
+* [HMDB 4.0: the human metabolome database for 2018](https://www.ncbi.nlm.nih.gov/pubmed/29140435)  
+* [Introduction to Cheminformatics](http://onlinelibrary.wiley.com/doi/10.1002/0471250953.bi1401s53/full) 
+* MetaboAnalyst 4.0 - sent in email
 
 Please note that these instructions may change prior to the workshop.  
   
