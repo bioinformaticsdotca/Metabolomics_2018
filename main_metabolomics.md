@@ -76,6 +76,15 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 * [Results file](https://drive.google.com/open?id=0B8AGit-0Ovvcd0FJZHNiSndQTk0)    
 
+##### GC-Autofit:
+
+<ul>
+ <li><a href="https://drive.google.com/a/bioinformatics.ca/file/d/1044G3q3bVfwJqgXW21mVxTIfoahu-xKW/view?usp=sharing">Alkane standards</a> </li>
+ <li><a href="https://drive.google.com/open?id=1XDdbCfepaLMhIByGAH-Pd3fBAsBC-NO7">Blank</a> </li>
+ <li><a href="https://drive.google.com/open?id=1T-ikEWpZm_IUEzo0O17cGcs5sZGFgDO7">Control sample</a> </li>
+ <li><a href="https://drive.google.com/open?id=1uyJRXhBkCJvjuKeWnpvcvw3ECEDqovi7">Desease sample</a> </li>
+</ul>
+
 
 ##### LC-MS:
 
