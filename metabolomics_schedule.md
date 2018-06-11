@@ -17,7 +17,7 @@ home: https://bioinformaticsdotca.github.io/metabolomics_2018
 | 11:00 | Module 2: Metabolite Identification and Annotation (David)  | 11:00 | Module 5: MetaboAnalyst (Jeff and David) |  
 | 12:30 | Lunch | 12:30 | Lunch |  
 | 1:30 | Module 2 Lab (Jeff, Jasmine, Mark) | 1:30 | Module 5 Lab (Jeff, Jasmine, and Mark) |  
-| 3:30 | Coffee break | 3:00 | Coffee break |  
-| 4:00 | Module 3: Databases for Chemical, Spectral, and Biological Data (David) | 3:30 | Module 5 Lab Cont. |  
+| 3:30 | Coffee break | 3:30 | Coffee break |  
+| 4:00 | Module 3: Databases for Chemical, Spectral, and Biological Data (David) | 4:00 | Module 5 Lab Cont. |  
 | 5:00 | Break | 5:00 | Future of Metabolomics (David) |  
 | 5:30 | Compound ID | 6:00 | Survey and Closing Remarks |       
