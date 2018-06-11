@@ -66,25 +66,10 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 <li> <a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_Data.zip">CBW_NMR_Data.zip</a> </li>
 <li> <a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip">CBW_NMR_result.zip</a> </li>
 </ul>
-  
-##### GC-MS:
-
-<ul>
-<li> <a href="https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/data_sets/Example_Jul0914_mzXML.zip">Example_Jul0914_mxXML.zip</a> </li>
-<li> <a href="https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/data_sets/Example_Jul1114_mzXML.zip">Example_Jul1114_mzXML.zip</a> </li>
-</ul>
-
-* [Results file](https://drive.google.com/open?id=0B8AGit-0Ovvcd0FJZHNiSndQTk0)    
 
 ##### GC-Autofit:
 
-<ul>
- <li><a href="https://drive.google.com/a/bioinformatics.ca/file/d/1044G3q3bVfwJqgXW21mVxTIfoahu-xKW/view?usp=sharing">Alkane standards</a> </li>
- <li><a href="https://drive.google.com/open?id=1XDdbCfepaLMhIByGAH-Pd3fBAsBC-NO7">Blank</a> </li>
- <li><a href="https://drive.google.com/open?id=1T-ikEWpZm_IUEzo0O17cGcs5sZGFgDO7">Control sample</a> </li>
- <li><a href="https://drive.google.com/open?id=1uyJRXhBkCJvjuKeWnpvcvw3ECEDqovi7">Desease sample</a> </li>
-</ul>
-
+Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5jVWYUG-LMB3-19Uy3EI9RLn_IDM/view?usp=sharing)  
 
 ##### LC-MS:
 
