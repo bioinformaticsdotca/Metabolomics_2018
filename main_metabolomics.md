@@ -20,6 +20,12 @@ We are using Google Classroom for discussion. Join the Class at https://classroo
 The full course notes are available as a [single PDF](https://drive.google.com/open?id=1K-z__-ZU7mQnGnAOIwzl9e1kgXtYqOKT).  
 
 ***
+
+# Class photo
+
+<img src="https://github.com/bioinformaticsdotca/Metabolomics_2018/blob/master/IMG_0244.JPG?raw=true" alt="img" width="750" />
+
+***
 # Day 1 <a id="day1"></a>
 
 ##  Welcome
