@@ -41,7 +41,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
   
   [Lab practical](https://drive.google.com/open?id=1_hAsK0JpgVGuT90MeV2uDWPsfaYE-tFd)   
   
-  [Instructions for lab](https://bioinformaticsdotca.github.io/metabolomics_2017_mod2lab)
+  [Instructions for lab](https://bioinformaticsdotca.github.io/metabolomics_2018_mod2lab)
   
  
 1. NMR and <a href="cbw.bayesil.ca">Bayesil</a>.  
