@@ -67,7 +67,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 <li> <a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip">CBW_NMR_result.zip</a> </li>
 </ul>
 
-* [NMR simple example file](https://drive.google.com/a/bioinformatics.ca/file/d/1GW-HaJc3RA7d6uL5-PwQRTpB3wSXLUYd/view?usp=sharing)  
+* [NMR simple example file](https://github.com/bioinformaticsdotca/Metabolomics_2018/blob/master/NMR_example.zip)  
 
 ##### GC-Autofit:
 
