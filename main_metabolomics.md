@@ -44,7 +44,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
   [Instructions for lab](https://bioinformaticsdotca.github.io/metabolomics_2017_mod2lab)
   
  
-1. NMR and <a href="http://tmic.bayesil.ca">Bayesil</a>.  
+1. NMR and <a href="cbw.bayesil.ca">Bayesil</a>.  
     
 2. GC-MS and <a href="http://gcms.wishartlab.com/">GCMS</a>.  
   
@@ -57,8 +57,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 ##### NMR:
 
 <ul>
-<li> <a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_Data.zip">CBW_NRM_Data.zip</a> </li>
-<li> <a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip">CBW_NRM_result.zip</a> </li>
+<li> <a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_Data.zip">CBW_NMR_Data.zip</a> </li>
+<li> <a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip">CBW_NMR_result.zip</a> </li>
 </ul>
   
 ##### GC-MS:
@@ -147,7 +147,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 # Day 2 <a id="day2"></a>
 
-##  Module 4: Backgrounder in Statisticss 
+##  Module 4: Backgrounder in Statistics 
 
   *<font color="#827e9c">Jeff Xia</font>*
   
