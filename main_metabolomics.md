@@ -170,7 +170,7 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
   
   [Lecture](https://drive.google.com/open?id=1jZSjqtqYnuKkeIpmLoHEwN459NpPlv2L)  
     
-  [Lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/10-BbVnIljxwpSmkNtnuaiyWHs2ECV3y2/view?usp=sharing)  
+  [Lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1nmLqmrw4RpkdEOme8k0WzhfJL_wcIsRN/view?usp=sharing)  
   
     
 #### Data Input:
