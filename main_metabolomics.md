@@ -192,3 +192,7 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
   [Lecture](https://drive.google.com/open?id=1npifepz8whpJAqrlSkhjGHNp5eEMJwic)  
   
 ***
+
+Thank you for attending the Analysis of Metagenomic Data workshop! Help us make this workshop better by filling out [our survey](https://docs.google.com/forms/d/e/1FAIpQLSfKbgwo3KYZMudZuC-nn8rGgr67njx9lBfG7RkvX0qGHFn2Tw/viewform?usp=sf_link)  
+
+***
