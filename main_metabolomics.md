@@ -38,12 +38,16 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
   
   [Lecture](https://drive.google.com/open?id=1jbM7oLsneIdUwkKoliOFvgFy2qQEbChl)  
   
+  [Recording](https://www.youtube.com/watch?v=QENZ1DTQTHc&list=PL3izGL6oi0S-WtHmL5s9qaK1VvO6_LNIH&index=2&t=0s)
+  
 
 ##  Module 2: Metabolite Identification and Annotation 
 
   *<font color="#827e9c">David Wishart</font>*
   
   [Lecture](https://drive.google.com/open?id=17bYNb1uk29rgI9LwuzywQTX0NdQIz3Os)  
+  
+  [Recording](https://www.youtube.com/watch?v=O3gf9Alq57o&list=PL3izGL6oi0S-WtHmL5s9qaK1VvO6_LNIH&index=3&t=0s)
   
   [Lab practical](https://drive.google.com/open?id=1_hAsK0JpgVGuT90MeV2uDWPsfaYE-tFd)   
   
