@@ -135,6 +135,8 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 
 [Lecture](https://drive.google.com/open?id=1N2u1YUG5m7Jd_pdpiqVMEcfuIKWq9-0Z)  
 
+[Recording](https://www.youtube.com/watch?v=i3snG8Jol7A&index=4&t=0s&list=PL3izGL6oi0S-WtHmL5s9qaK1VvO6_LNIH)
+
 #### Links:
   
  * [HMDB](http://hmdb.ca/) 
@@ -163,12 +165,16 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
   
   [Lecture](https://drive.google.com/open?id=1c2Nt8z7fi2-7_PqK92NwvIyQBjyGWpaT)  
   
+  [Recording](https://www.youtube.com/watch?v=mtolDgEhcyg&index=5&t=0s&list=PL3izGL6oi0S-WtHmL5s9qaK1VvO6_LNIH)
+  
 
 ##  Module 5: MetaboAnalyst 
 
   *<font color="#827e9c">Jeff Xia</font>*
   
   [Lecture](https://drive.google.com/open?id=1jZSjqtqYnuKkeIpmLoHEwN459NpPlv2L)  
+  
+  [Recording](https://www.youtube.com/watch?v=lKipIJPXrLU)
     
   [Lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1nmLqmrw4RpkdEOme8k0WzhfJL_wcIsRN/view?usp=sharing)  
   
@@ -194,6 +200,8 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
   *<font color="#827e9c">David Wishart</font>*
   
   [Lecture](https://drive.google.com/open?id=1npifepz8whpJAqrlSkhjGHNp5eEMJwic)  
+  
+  [Recording](https://www.youtube.com/watch?v=TOO0TVpgRng&index=7&list=PL3izGL6oi0S-WtHmL5s9qaK1VvO6_LNIH)
   
 ***
 
